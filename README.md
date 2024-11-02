@@ -1,6 +1,6 @@
 Here’s a sample README file for the **SmartX Hybrid** project:
 
----
+----
 
 # SmartX Hybrid
 
