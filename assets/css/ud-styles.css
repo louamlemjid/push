@@ -247,7 +247,8 @@ p {
 }
 
 .navbar-brand img {
-  max-width: 160px;
+  max-width: 60px;
+  border-radius: 50%;
 }
 
 .navbar-toggler {
